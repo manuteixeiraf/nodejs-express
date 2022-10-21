@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "exemplo express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuteixeiraf/nodejs-express.git"
+  },
+  "author": "Maria Luiza e Manuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuteixeiraf/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/manuteixeiraf/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
